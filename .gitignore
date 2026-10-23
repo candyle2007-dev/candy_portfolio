@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+
+# Contains phone number and postal code; keep out of the public repo
+public/resume.pdf
